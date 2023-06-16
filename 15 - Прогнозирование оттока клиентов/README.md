@@ -17,7 +17,7 @@
 За услуги клиенты могут платить каждый месяц или заключить договор на 1–2 года. Доступны различные способы расчёта и возможность получения электронного чека.
 
 ## Стек
-Pandas, Matplotlib, Seaborn, Spicy, NumPy, Scikit-Learn, PhiK, LightGBM, re
+Pandas, Matplotlib, Seaborn, SciPy, NumPy, Scikit-Learn, PhiK, LightGBM, re
 
 ## Вывод
 Для подбора модели, предсказывающей отток клиентов банка, были обучены 2 модели: логистическая регрессия и LGBM.
